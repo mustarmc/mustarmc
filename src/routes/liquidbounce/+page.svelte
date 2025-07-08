@@ -14,7 +14,7 @@
     <li>Írd be a chatbe: <code>.script reload</code></li>
     <li>Kapcsold be az MMC Auth modult a beállításokban</li>
   </ol>
-  <div class="">
+  <div>
     <img src="/i/mmc.png" alt="" class="rounded-lg shadow-md" />
   </div>
 
