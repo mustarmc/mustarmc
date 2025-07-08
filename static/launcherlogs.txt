@@ -1,0 +1,78 @@
+MesterMC Launcher indítása...
+📋 Verzió konfiguráció:
+   Hardcoded verzió: 2.1
+   Konfig verzió: 2.1
+   Update check: true
+🔍 Verzió ellenőrzés indítása...
+   Jelenlegi verzió: 2.1
+❌ Hiba a verzió ellenőrzés során: Connect timed out
+🧹 CustomSkinLoader cache-ek törlése indítása...
+🔍 Cache könyvtár ellenőrzése: minecraft_data/CustomSkinLoader/ProfileCache
+ℹ️ minecraft_data/CustomSkinLoader/ProfileCache - könyvtár nem létezik vagy nem mappa
+🔍 Cache könyvtár ellenőrzése: minecraft_data/CustomSkinLoader/caches
+ℹ️ minecraft_data/CustomSkinLoader/caches - könyvtár nem létezik vagy nem mappa
+🧹 CustomSkinLoader cache törlés befejezve!
+📊 Összesen törölve: 0 fájl, 0 könyvtár
+🌐 Szerverlista frissítés indítása a launcher GUI-ban...
+🌐 Szerverlista teljes frissítése - régi fájl törlése...
+ℹ️ Nincs meglévő servers.dat fájl - első futás
+📡 API válasz megérkezett (594 karakter)
+Szerver hozzáadva: §c§lMesterMC §r§7- §bKreativ (Kreativ.mestermc.eu)
+Szerver hozzáadva: §e§lMesterMC §r§7- §dBedWars 1 (bedwars.mestermc.eu)
+Szerver hozzáadva: §e§lMesterMC §r§7- §dBedWars 2 (bedwars2.mestermc.eu)
+Szerver hozzáadva: §9§lMesterMC §r§7- §5SkyPvP (skypvp.mestermc.eu)
+Szerver hozzáadva: §9§lMesterMC §r§7- §5HungerGames (hungergames.mestermc.eu)
+Sikeresen lekérve 5 szerver
+servers.dat fájl generálva 5 szerverrel
+📝 Szerverlista debug log mentve: /Users/cica/serverlist_debug.txt
+Szerverlista sikeresen frissítve (fresh reload)!
+✅ Szerverlista sikeresen frissítve!
+📋 Szerverlista információk:
+   servers.dat: minecraft_data/servers.dat
+   Backup fájl: minecraft_data/servers.dat.backup
+   Debug log: serverlist_debug.txt
+   Jelenlegi fájl méret: 465 byte
+   Utolsó módosítás: Mon Jul 07 23:19:14 CEST 2025
+✅ Updater kinyerve: updater.jar → updater.jar
+   Méret: 2234 KB
+🧪 MesterMC Skin API teszt (23048 port)...
+   🔗 Tesztelés: http://api.mestermc.hu:9500/TestUser.json
+   📈 Válasz kód: 200
+   ✅ Endpoint elérhető
+   🔗 Tesztelés: http://api.mestermc.hu:9500/api/minecraft/TestUser
+   📈 Válasz kód: 200
+   ✅ Endpoint elérhető
+   🔗 Tesztelés: http://api.mestermc.hu:9500/textures/TestUser.png
+   📈 Válasz kód: 404
+   ✅ Endpoint elérhető
+   🔗 Tesztelés: http://api.mestermc.hu:9500/skin.php?action=stats
+   📈 Válasz kód: 200
+   ✅ Endpoint elérhető
+   🔗 Tesztelés: http://api.mestermc.hu:9500/uploads/test.png
+   📈 Válasz kód: 404
+   ✅ Endpoint elérhető
+🧪 API teszt eredmény: 5/5 endpoint elérhető
+✅ Minden API endpoint tökéletesen működik!
+📦 MesterMC Updater kinyerése JAR-ból...
+✅ Updater kinyerve: updater.jar → updater.jar
+   Méret: 2234 KB
+✅ Updater sikeresen kinyerve
+ℹ️ Szerverlista már frissítve - Minecraft indítása...
+🧪 MesterMC Skin API teszt (23048 port)...
+   🔗 Tesztelés: http://api.mestermc.hu:9500/TestUser.json
+   📈 Válasz kód: 200
+   ✅ Endpoint elérhető
+   🔗 Tesztelés: http://api.mestermc.hu:9500/api/minecraft/TestUser
+   📈 Válasz kód: 200
+   ✅ Endpoint elérhető
+   🔗 Tesztelés: http://api.mestermc.hu:9500/textures/TestUser.png
+   📈 Válasz kód: 404
+   ✅ Endpoint elérhető
+   🔗 Tesztelés: http://api.mestermc.hu:9500/skin.php?action=stats
+   📈 Válasz kód: 200
+   ✅ Endpoint elérhető
+   🔗 Tesztelés: http://api.mestermc.hu:9500/uploads/test.png
+   📈 Válasz kód: 404
+   ✅ Endpoint elérhető
+🧪 API teszt eredmény: 5/5 endpoint elérhető
+✅ Minden API endpoint tökéletesen működik!
